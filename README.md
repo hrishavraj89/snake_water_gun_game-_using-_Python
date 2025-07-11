@@ -1,4 +1,4 @@
-# ** Snake, Water, Gun – Python CLI Game**
+# **Snake, Water, Gun – Python CLI Game**
 
 ## **Description**
 A simple Python command-line game that implements the classic Snake, Water, Gun game. It's a fun and beginner-friendly mini-project to understand how to use:
